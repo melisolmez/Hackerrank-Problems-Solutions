@@ -1,15 +1,11 @@
-package com.melis;
-
 import java.util.ArrayList;
 import java.util.List;
 
-/*
-    This solution is for this problem ->  https://www.hackerrank.com/challenges/kindergarten-adventures/problem
- */
-
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
-
     public static void main(String[] args) {
+
         List<Integer> list = new ArrayList<>();
         list.add(0);
         list.add(1);
